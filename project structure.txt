@@ -1,0 +1,24 @@
+resume-job-match-api
+│
+├── controller
+│   ├── ResumeController
+│   ├── JobController
+│   └── MatchController
+│
+├── service
+│   ├── ResumeService
+│   ├── JobService
+│   └── MatchService
+│
+├── repository
+│   ├── ResumeRepository
+│   └── JobRepository
+│
+├── entity
+│   ├── Resume
+│   └── JobDescription
+│
+├── dto
+│   └── MatchResponse
+│
+└── ResumeJobMatchApplication
