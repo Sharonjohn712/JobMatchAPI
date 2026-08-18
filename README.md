@@ -5,13 +5,13 @@ The application allows users to create and manage resumes and job descriptions, 
 
 Features:
 -------------------------------------------
-Create and manage candidate resumes
-Store candidate information
-Create and manage job descriptions
-Compare resumes with job requirements
-Calculate a job match score
-Identify matched and missing skills
-Provide a structured match result through REST APIs
+- Create and manage candidate resumes
+- Store candidate information
+- Create and manage job descriptions
+- Compare resumes with job requirements
+- Calculate a job match score
+- Identify matched and missing skills
+- Provide a structured match result through REST APIs
 
 This project is being built to demonstrate practical backend development skills, including REST API design, object-oriented programming, database integration, Spring Boot architecture, and business logic implementation.
 
